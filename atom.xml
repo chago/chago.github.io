@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>达摩克利斯之剑</title>
+  <icon>https://www.gravatar.com/avatar/f54dec13a8dd85982c629c5899ba1744</icon>
+  <subtitle>Android/AndroidRe/iOSRe</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.chago.me/"/>
+  <updated>2019-04-17T08:47:49.346Z</updated>
+  <id>http://www.chago.me/</id>
+  
+  <author>
+    <name>Chago</name>
+    <email>greenchago#gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="http://www.chago.me/2019/04/17/I-am-back/"/>
+    <id>http://www.chago.me/2019/04/17/I-am-back/</id>
+    <published>2019-04-17T08:03:05.000Z</published>
+    <updated>2019-04-17T08:47:49.346Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="人生感慨" scheme="http://www.chago.me/categories/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%85%A8/"/>
+    
+    
+      <category term="吐槽" scheme="http://www.chago.me/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+</feed>
